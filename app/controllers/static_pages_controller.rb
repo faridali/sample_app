@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html>
-</html>
 class StaticPagesController < ApplicationController
   def home
   end
